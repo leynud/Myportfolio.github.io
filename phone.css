@@ -61,7 +61,7 @@ body {
     color:#fff;
 }
 .social-icons{
-    height: 30px;
+    height: 37px;
     margin-left: 370px;
     flex-direction: column;
     position: absolute;
@@ -70,7 +70,7 @@ body {
 }
 .facebook{
     height:30px;
-    width:26px;
+    width:30px;
 }
 .instagram{
     height:30px;
