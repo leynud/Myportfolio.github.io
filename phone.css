@@ -62,10 +62,11 @@ body {
 }
 .social-icons{
     height: 30px;
-    margin-left: 371px;
+    margin-left: 352px;
     flex-direction: column;
     position: absolute;
-    top: 92%;
+    top: 108%;
+}
 }
 .facebook{
     height:30px;
