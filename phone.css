@@ -32,12 +32,11 @@ nav ul li a{
     color:#212121;
 }
 .image-box{
-    width:40%;
+    width:36%;
     height:70%;
     position: absolute;
-    top:417px;
-    right:150px;    
-    left:150px;
+    top:447px;  
+    left:100px;
 }
 body {
     overflow-x: hidden ;
@@ -63,8 +62,8 @@ body {
 }
 .social-icons{
     height:60px;
-    position: fixed;
-    bottom:auto;
+    position:absolute;
+    bottom:0;
     margin-top:72%;
     margin-left:10px;
     flex-direction:column;
