@@ -61,13 +61,9 @@ body {
     color:#fff;
 }
 .social-icons{
-    height:60px;
-    position:absolute;
-    bottom:0;
-    margin-top:72%;
+    height:50px;
     margin-left:10px;
-    flex-direction:column;
-    overflow:hidden;
+    flex-direction: column;
 }
 .facebook{
     height:30px;
