@@ -37,6 +37,7 @@ nav ul li a{
     position: absolute;
     top:417px;
     right:150px;    
+    left:150px;
 }
 body {
     overflow-x: hidden ;
@@ -48,14 +49,39 @@ body {
 }
 .info a{
     text-decoration:none;
-    padding:3px 10px;
-    background: #212121;
-    color:#fff;
+    padding:5px 8px;
+    background: #131414;
+    color:rgb(239, 237, 245);
     display:inline-block;
-    margin-top:50%;
+    margin-top:10%;
     border-radius:4px;
+    font-size:14px;
 }
 .info a:hover{
-    background-color:#8d470e;
+    background-color:#b44918;
     color:#fff;
+}
+.social-icons{
+    height:60px;
+    position: absolute;
+    bottom:auto;
+    margin-left:390px;
+    margin-top:67%;
+    flex-direction:column;
+}
+.facebook{
+    height:30px;
+    width:30px;
+}
+.instagram{
+    height:30px;
+    width:30px;
+}
+.twitter{
+    height:30px;
+    width:30px;
+}
+.linkedin{
+    height:30px;
+    width:30px;
 }
