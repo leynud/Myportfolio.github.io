@@ -14,7 +14,7 @@ nav ul li a{
     text-decoration: none;
     padding:2px 8px;
     color:#606163;
-    font-size:1rem;
+    font-size:10px;
     display:inline-block;
     cursor: pointer;
     
@@ -52,10 +52,10 @@ body {
     background: #212121;
     color:#fff;
     display:inline-block;
-    margin-top:90%;
+    margin-top:50%;
     border-radius:4px;
 }
 .info a:hover{
-    background-color:#91511c;
+    background-color:#8d470e;
     color:#fff;
 }
