@@ -61,16 +61,11 @@ body {
     color:#fff;
 }
 .social-icons{
-    height: 37px;
-    margin-left: 370px;
+    height: 30px;
+    margin-left: 371px;
     flex-direction: column;
     position: absolute;
-    top: 78%;
-}
-}
-.facebook{
-    height:30px;
-    width:30px;
+    top: 92%;
 }
 .instagram{
     height:30px;
@@ -81,6 +76,10 @@ body {
     width:30px;
 }
 .linkedin{
+    height:30px;
+    width:30px;
+}
+.facebook{
     height:30px;
     width:30px;
 }
